@@ -56,4 +56,4 @@ Output: The UI dynamically renders tabs for viewing and a button for downloading
 
 # Example keys
 
-API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here
